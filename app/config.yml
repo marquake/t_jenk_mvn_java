@@ -1,0 +1,4 @@
+logging:
+  level: INFO
+  loggers:
+    p_jenk_mvn_java: DEBUG
