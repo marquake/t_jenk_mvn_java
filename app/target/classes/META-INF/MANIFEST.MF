@@ -40,6 +40,6 @@ Class-Path: dropwizard-core-2.1.0-beta.4.jar dropwizard-util-2.1.0-beta.
  -1.7.32.jar jackson-annotations-2.12.5.jar jakarta.validation-api-2.0.2
  .jar hibernate-validator-6.2.0.Final.jar jboss-logging-3.4.1.Final.jar 
  classmate-1.5.1.jar
-Main-Class: p_jenk_mvn_java.app.p_jenk_mvn_javaApplication
+Main-Class: p_jenk_mvn_java.app.Ppal
 Created-By: Maven Integration for Eclipse
 
